@@ -1,8 +1,10 @@
 # README
 
 ＊Ancestryについて
+カテゴリーツリーの作成時に使用
 
 ＊active_hashについて
+画像の複数投稿で使用
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
