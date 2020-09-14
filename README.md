@@ -6,6 +6,9 @@
 ＊active_hashについて
 画像の複数投稿で使用
 
+*編集機能実装について
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
