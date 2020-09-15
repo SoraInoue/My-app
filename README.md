@@ -8,7 +8,7 @@
 
 *編集機能実装について
 
-
+9/15
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
