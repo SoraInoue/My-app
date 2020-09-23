@@ -18,7 +18,7 @@ Genre.rootsで呼び出し元を定義
 selected: @item.genre&.root_idで呼び出すidを選択しておく
 9/22
 hamlとjsでの変数（数字）はカスタムデータを介してのやり取りでも可能
-
+9/24
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
