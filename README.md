@@ -12,6 +12,7 @@
 9/16
 9/18 9/19
 9/21
+9/27
 Ancestryのedit部分について
 = f.collection_select :genre_id, Genre.roots, :id, :name, {prompt: "選択して下さい", selected: @item.genre&.root_id},{ class: 'sell-collection_select__input', id: 'genre-select', required: "required"}
 Genre.rootsで呼び出し元を定義
