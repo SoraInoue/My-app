@@ -20,7 +20,8 @@ selected: @item.genre&.root_idで呼び出すidを選択しておく
 9/22
 hamlとjsでの変数（数字）はカスタムデータを介してのやり取りでも可能
 9/24
-
+12/8
+git更新用として使用
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
